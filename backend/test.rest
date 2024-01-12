@@ -1,0 +1,3 @@
+POST http://127.0.0.1:8000/api/users/register/
+
+{"first_name": "Joe", "last_name": "Kimani", "username": "joemainak", "password": "pass1234"}
